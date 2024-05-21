@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "minecraft-offline-version.html", 
+      "src": "offline-Download-version.html", 
       "use": "@vercel/node"
     }
   ],
